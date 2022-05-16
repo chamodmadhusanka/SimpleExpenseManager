@@ -1,0 +1,4 @@
+#Tue May 17 00:37:32 IST 2022
+base.0=F\:\\Sem 4 Moodle\\CS3042 - Database Systems\\Mini Project\\SimpleExpenseManager\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
